@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   id="svg740"
+   sodipodi:docname="ss-results.svg"
+   width="686.42194"
+   height="442.84238"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata744">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>pyqtgraph SVG export</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1315"
+     inkscape:window-height="829"
+     id="namedview742"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="181.09508"
+     inkscape:cy="270.46607"
+     inkscape:window-x="66"
+     inkscape:window-y="12"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg740" />
+  <title
+     id="title2">pyqtgraph SVG export</title>
+  <desc
+     id="desc4">Generated with Qt and pyqtgraph</desc>
+  <defs
+     id="defs6" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 10.783378,37.846963 V 432.07675 H 675.625 V 38.045496 Z"
+     id="path1205"
+     inkscape:connector-curvature="0" />
+  <g
+     id="PlotItem_1"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     transform="translate(12.043272,46.692841)">
+    <g
+       id="AxisItem_1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <g
+         font-size="12"
+         font-style="normal"
+         font-weight="400"
+         id="g10"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <polyline
+           points="54.4,343.6 659.0,343.6"
+           id="polyline8"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+      </g>
+      <g
+         font-size="12"
+         font-style="normal"
+         font-weight="400"
+         id="g18"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.19607801">
+        <polyline
+           points="94.0402,1.0 94.0402,343.6"
+           id="polyline12"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+        <polyline
+           points="344.669,1.0 344.669,343.6"
+           id="polyline14"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+        <polyline
+           points="595.297,1.0 595.297,343.6"
+           id="polyline16"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+      </g>
+      <g
+         font-size="12"
+         font-style="normal"
+         font-weight="400"
+         id="g24"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.09803922">
+        <polyline
+           points="219.354,1.0 219.354,343.6"
+           id="polyline20"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+        <polyline
+           points="469.983,1.0 469.983,343.6"
+           id="polyline22"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+      </g>
+      <g
+         font-size="12"
+         font-style="normal"
+         font-weight="400"
+         transform="translate(54.9,343.6)"
+         id="g36"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="33.796902"
+           xml:space="preserve"
+           y="11.5938"
+           id="text26"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">-2</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="286.422"
+           xml:space="preserve"
+           y="11.5938"
+           id="text28"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">0</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="537.047"
+           xml:space="preserve"
+           y="11.5938"
+           id="text30"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">2</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="159.125"
+           xml:space="preserve"
+           y="11.5938"
+           id="text32"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">-1</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="411.73401"
+           xml:space="preserve"
+           y="11.5938"
+           id="text34"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">1</text>
+      </g>
+      <g
+         id="QGraphicsTextItem_1"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <g
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           transform="translate(320.4,363.6)"
+           id="g40"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+          <text
+             font-size="13.3333"
+             font-style="normal"
+             font-weight="400"
+             x="4"
+             xml:space="preserve"
+             y="16"
+             id="text38"
+             style="font-style:normal;font-weight:400;font-size:13.33329964px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">Voltage (V)</text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="AxisItem_2"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <g
+         font-size="12"
+         font-style="normal"
+         font-weight="400"
+         id="g46"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <polyline
+           points="54.4,1.0 54.4,343.6"
+           id="polyline44"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+      </g>
+      <g
+         font-size="12"
+         font-style="normal"
+         font-weight="400"
+         id="g50"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.19607801">
+        <polyline
+           points="659.5,188.5 54.9,188.5"
+           id="polyline48"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+      </g>
+      <g
+         font-size="12"
+         font-style="normal"
+         font-weight="400"
+         id="g60"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.09803922">
+        <polyline
+           points="659.5,323.52 54.9,323.52"
+           id="polyline52"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+        <polyline
+           points="659.5,256.01 54.9,256.01"
+           id="polyline54"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+        <polyline
+           points="659.5,120.99 54.9,120.99"
+           id="polyline56"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+        <polyline
+           points="659.5,53.4803 54.9,53.4803"
+           id="polyline58"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+      </g>
+      <g
+         font-size="12"
+         font-style="normal"
+         font-weight="400"
+         id="g72"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.0627451">
+        <polyline
+           points="659.5,289.765 54.9,289.765"
+           id="polyline62"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+        <polyline
+           points="659.5,222.255 54.9,222.255"
+           id="polyline64"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+        <polyline
+           points="659.5,154.745 54.9,154.745"
+           id="polyline66"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+        <polyline
+           points="659.5,87.2352 54.9,87.2352"
+           id="polyline68"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+        <polyline
+           points="659.5,19.7253 54.9,19.7253"
+           id="polyline70"
+           style="vector-effect:non-scaling-stroke;fill:none" />
+      </g>
+      <g
+         font-size="12"
+         font-style="normal"
+         font-weight="400"
+         transform="translate(1.5,1)"
+         id="g94"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="41.7188"
+           xml:space="preserve"
+           y="191.5"
+           id="text74"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">0</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="27.7344"
+           xml:space="preserve"
+           y="326.51599"
+           id="text76"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">-0.4</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="27.7344"
+           xml:space="preserve"
+           y="259"
+           id="text78"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">-0.2</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="31.7188"
+           xml:space="preserve"
+           y="123.984"
+           id="text80"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">0.2</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="31.7188"
+           xml:space="preserve"
+           y="56.4688"
+           id="text82"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">0.4</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="27.7344"
+           xml:space="preserve"
+           y="292.75"
+           id="text84"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">-0.3</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="27.7344"
+           xml:space="preserve"
+           y="225.25"
+           id="text86"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">-0.1</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="31.7188"
+           xml:space="preserve"
+           y="157.73399"
+           id="text88"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">0.1</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="31.7188"
+           xml:space="preserve"
+           y="90.234398"
+           id="text90"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">0.3</text>
+        <text
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           x="31.7188"
+           xml:space="preserve"
+           y="22.7188"
+           id="text92"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">0.5</text>
+      </g>
+      <g
+         id="QGraphicsTextItem_2"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <g
+           font-size="12"
+           font-style="normal"
+           font-weight="400"
+           transform="rotate(-90,96.5,100.5)"
+           id="g98"
+           style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+          <text
+             font-size="13.3333"
+             font-style="normal"
+             font-weight="400"
+             x="4"
+             xml:space="preserve"
+             y="16"
+             id="text96"
+             style="font-style:normal;font-weight:400;font-size:13.33329964px;font-family:'Liberation Sans', sans-serif;fill:#000000;fill-opacity:1;stroke:none">dM/M0 </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="ViewBox_1"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <g
+         font-size="12"
+         font-style="normal"
+         font-weight="400"
+         id="g104"
+         style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:none;stroke:none">
+        <path
+           d="M 54.4,1 H 659 V 343.6 H 54.4 V 1"
+           id="path102"
+           inkscape:connector-curvature="0"
+           style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+      </g>
+      <clipPath
+         id="ViewBox_1_clip">
+        <path
+           d="M 54.4,1 H 659 V 343.6 H 54.4 V 1"
+           id="path106"
+           inkscape:connector-curvature="0"
+           style="vector-effect:none;fill-rule:evenodd;stroke-width:1" />
+      </clipPath>
+      <g
+         clip-path="url(#ViewBox_1_clip)"
+         id="g736">
+        <g
+           id="ChildGroup_1"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+          <g
+             id="PlotDataItem_1">
+            <g
+               id="ScatterPlotItem_1"
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g111"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 413.326,195.409 h 5 v 5 h -5 v -5"
+                   id="path109"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g115"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 288.011,194.981 h 5 v 5 h -5 v -5"
+                   id="path113"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g119"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 438.389,197.219 h 5 v 5 h -5 v -5"
+                   id="path117"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g123"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 262.949,193.483 h 5 v 5 h -5 v -5"
+                   id="path121"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g127"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 463.451,196.894 h 5 v 5 h -5 v -5"
+                   id="path125"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g131"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 237.886,192.398 h 5 v 5 h -5 v -5"
+                   id="path129"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g135"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 488.514,196.853 h 5 v 5 h -5 v -5"
+                   id="path133"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g139"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 212.823,190.979 h 5 v 5 h -5 v -5"
+                   id="path137"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g143"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 513.577,199.914 h 5 v 5 h -5 v -5"
+                   id="path141"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g147"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 187.76,192.755 h 5 v 5 h -5 v -5"
+                   id="path145"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g151"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 538.64,196.028 h 5 v 5 h -5 v -5"
+                   id="path149"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g155"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 162.697,200.833 h 5 v 5 h -5 v -5"
+                   id="path153"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g159"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 563.703,191.416 h 5 v 5 h -5 v -5"
+                   id="path157"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g163"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 137.634,237.146 h 5 v 5 h -5 v -5"
+                   id="path161"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g167"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 588.766,160.107 h 5 v 5 h -5 v -5"
+                   id="path165"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g171"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 112.572,265.778 h 5 v 5 h -5 v -5"
+                   id="path169"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g175"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 613.828,91.7827 h 5 v 5 h -5 v -5"
+                   id="path173"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g179"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 87.5088,317.334 h 5 v 5 h -5 v -5"
+                   id="path177"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g183"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 413.326,195.65 h 5 v 5 h -5 v -5"
+                   id="path181"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g187"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 438.389,195.079 h 5 v 5 h -5 v -5"
+                   id="path185"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g191"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 463.451,195.983 h 5 v 5 h -5 v -5"
+                   id="path189"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g195"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 488.514,193.39 h 5 v 5 h -5 v -5"
+                   id="path193"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g199"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 513.577,199.151 h 5 v 5 h -5 v -5"
+                   id="path197"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g203"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 538.64,190.33 h 5 v 5 h -5 v -5"
+                   id="path201"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g207"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 563.703,175.874 h 5 v 5 h -5 v -5"
+                   id="path205"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g211"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 588.766,161.946 h 5 v 5 h -5 v -5"
+                   id="path209"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g215"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 613.828,73.2816 h 5 v 5 h -5 v -5"
+                   id="path213"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g219"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 288.011,194.41 h 5 v 5 h -5 v -5"
+                   id="path217"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g223"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 262.949,193.358 h 5 v 5 h -5 v -5"
+                   id="path221"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g227"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 237.886,193.348 h 5 v 5 h -5 v -5"
+                   id="path225"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g231"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 212.823,190.243 h 5 v 5 h -5 v -5"
+                   id="path229"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g235"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 187.76,193.392 h 5 v 5 h -5 v -5"
+                   id="path233"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g239"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 162.697,204.055 h 5 v 5 h -5 v -5"
+                   id="path237"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g243"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 137.634,227.704 h 5 v 5 h -5 v -5"
+                   id="path241"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g247"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 112.572,234.835 h 5 v 5 h -5 v -5"
+                   id="path245"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g251"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 87.5088,252.136 h 5 v 5 h -5 v -5"
+                   id="path249"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g255"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 413.326,194.82 h 5 v 5 h -5 v -5"
+                   id="path253"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g259"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 438.389,191.675 h 5 v 5 h -5 v -5"
+                   id="path257"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g263"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 463.451,197.091 h 5 v 5 h -5 v -5"
+                   id="path261"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g267"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 488.514,190.369 h 5 v 5 h -5 v -5"
+                   id="path265"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g271"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 513.577,197.712 h 5 v 5 h -5 v -5"
+                   id="path269"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g275"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 538.64,194.649 h 5 v 5 h -5 v -5"
+                   id="path273"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g279"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 563.703,183.718 h 5 v 5 h -5 v -5"
+                   id="path277"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g283"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 588.766,167.062 h 5 v 5 h -5 v -5"
+                   id="path281"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g287"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 613.828,85.5063 h 5 v 5 h -5 v -5"
+                   id="path285"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g291"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 638.891,38.464 h 5 v 5 h -5 v -5"
+                   id="path289"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g295"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 288.011,193.653 h 5 v 5 h -5 v -5"
+                   id="path293"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g299"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 262.949,192.181 h 5 v 5 h -5 v -5"
+                   id="path297"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g303"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 237.886,189.011 h 5 v 5 h -5 v -5"
+                   id="path301"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g307"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 212.823,194.322 h 5 v 5 h -5 v -5"
+                   id="path305"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g311"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 187.76,187.566 h 5 v 5 h -5 v -5"
+                   id="path309"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g315"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 162.697,182.282 h 5 v 5 h -5 v -5"
+                   id="path313"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g319"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 137.634,216.838 h 5 v 5 h -5 v -5"
+                   id="path317"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g323"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 112.572,329.659 h 5 v 5 h -5 v -5"
+                   id="path321"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g327"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 413.326,195.041 h 5 v 5 h -5 v -5"
+                   id="path325"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g331"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 438.389,196.867 h 5 v 5 h -5 v -5"
+                   id="path329"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g335"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 463.451,194.098 h 5 v 5 h -5 v -5"
+                   id="path333"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g339"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 488.514,194.73 h 5 v 5 h -5 v -5"
+                   id="path337"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g343"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 513.577,194.613 h 5 v 5 h -5 v -5"
+                   id="path341"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g347"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 538.64,195.017 h 5 v 5 h -5 v -5"
+                   id="path345"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g351"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 563.703,180.495 h 5 v 5 h -5 v -5"
+                   id="path349"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g355"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 588.766,152.721 h 5 v 5 h -5 v -5"
+                   id="path353"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g359"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 613.828,115.251 h 5 v 5 h -5 v -5"
+                   id="path357"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g363"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 638.891,135.235 h 5 v 5 h -5 v -5"
+                   id="path361"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g367"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 288.011,191.477 h 5 v 5 h -5 v -5"
+                   id="path365"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g371"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 262.949,190.319 h 5 v 5 h -5 v -5"
+                   id="path369"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g375"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 237.886,195.134 h 5 v 5 h -5 v -5"
+                   id="path373"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g379"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 212.823,186.29 h 5 v 5 h -5 v -5"
+                   id="path377"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g383"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 187.76,184.379 h 5 v 5 h -5 v -5"
+                   id="path381"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g387"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 162.697,181.196 h 5 v 5 h -5 v -5"
+                   id="path385"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g391"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 137.634,217.527 h 5 v 5 h -5 v -5"
+                   id="path389"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g395"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 112.572,315.137 h 5 v 5 h -5 v -5"
+                   id="path393"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g399"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 87.5088,300.898 h 5 v 5 h -5 v -5"
+                   id="path397"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g403"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 413.326,194.874 h 5 v 5 h -5 v -5"
+                   id="path401"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g407"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 438.389,194.663 h 5 v 5 h -5 v -5"
+                   id="path405"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g411"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 463.451,199.089 h 5 v 5 h -5 v -5"
+                   id="path409"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g415"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 488.514,192.86 h 5 v 5 h -5 v -5"
+                   id="path413"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g419"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 513.577,191.945 h 5 v 5 h -5 v -5"
+                   id="path417"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g423"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 538.64,202.602 h 5 v 5 h -5 v -5"
+                   id="path421"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g427"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 563.703,171.543 h 5 v 5 h -5 v -5"
+                   id="path425"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g431"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 588.766,154.741 h 5 v 5 h -5 v -5"
+                   id="path429"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g435"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 613.828,67.9616 h 5 v 5 h -5 v -5"
+                   id="path433"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g439"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 288.011,189.855 h 5 v 5 h -5 v -5"
+                   id="path437"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g443"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 262.949,192.433 h 5 v 5 h -5 v -5"
+                   id="path441"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g447"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 237.886,192.732 h 5 v 5 h -5 v -5"
+                   id="path445"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g451"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 212.823,188.447 h 5 v 5 h -5 v -5"
+                   id="path449"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g455"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 187.76,201.838 h 5 v 5 h -5 v -5"
+                   id="path453"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g459"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 162.697,192.237 h 5 v 5 h -5 v -5"
+                   id="path457"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g463"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 137.634,221.291 h 5 v 5 h -5 v -5"
+                   id="path461"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g467"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 112.572,281.143 h 5 v 5 h -5 v -5"
+                   id="path465"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g471"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 87.5088,246.725 h 5 v 5 h -5 v -5"
+                   id="path469"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g475"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 413.326,195.623 h 5 v 5 h -5 v -5"
+                   id="path473"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g479"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 438.389,193.829 h 5 v 5 h -5 v -5"
+                   id="path477"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g483"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 463.451,196.451 h 5 v 5 h -5 v -5"
+                   id="path481"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g487"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 488.514,198.662 h 5 v 5 h -5 v -5"
+                   id="path485"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g491"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 513.577,193.827 h 5 v 5 h -5 v -5"
+                   id="path489"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g495"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 538.64,190.798 h 5 v 5 h -5 v -5"
+                   id="path493"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g499"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 563.703,184.832 h 5 v 5 h -5 v -5"
+                   id="path497"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g503"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 588.766,160.274 h 5 v 5 h -5 v -5"
+                   id="path501"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g507"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 613.828,76.0627 h 5 v 5 h -5 v -5"
+                   id="path505"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g511"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 288.011,191.874 h 5 v 5 h -5 v -5"
+                   id="path509"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g515"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 262.949,193.627 h 5 v 5 h -5 v -5"
+                   id="path513"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g519"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 237.886,194.086 h 5 v 5 h -5 v -5"
+                   id="path517"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g523"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 212.823,195.177 h 5 v 5 h -5 v -5"
+                   id="path521"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g527"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 187.76,195.793 h 5 v 5 h -5 v -5"
+                   id="path525"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g531"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 162.697,192.417 h 5 v 5 h -5 v -5"
+                   id="path529"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g535"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 137.634,227.917 h 5 v 5 h -5 v -5"
+                   id="path533"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g539"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 112.572,240.723 h 5 v 5 h -5 v -5"
+                   id="path537"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g543"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 87.5088,258.947 h 5 v 5 h -5 v -5"
+                   id="path541"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g547"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 413.326,194.722 h 5 v 5 h -5 v -5"
+                   id="path545"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g551"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 438.389,194.844 h 5 v 5 h -5 v -5"
+                   id="path549"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g555"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 463.451,194.286 h 5 v 5 h -5 v -5"
+                   id="path553"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g559"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 488.514,194.959 h 5 v 5 h -5 v -5"
+                   id="path557"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g563"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 513.577,199.001 h 5 v 5 h -5 v -5"
+                   id="path561"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g567"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 538.64,184.783 h 5 v 5 h -5 v -5"
+                   id="path565"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g571"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 563.703,190.142 h 5 v 5 h -5 v -5"
+                   id="path569"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g575"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 588.766,151.609 h 5 v 5 h -5 v -5"
+                   id="path573"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g579"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 613.828,107.762 h 5 v 5 h -5 v -5"
+                   id="path577"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g583"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 638.891,27.9413 h 5 v 5 h -5 v -5"
+                   id="path581"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g587"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 288.011,190.596 h 5 v 5 h -5 v -5"
+                   id="path585"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g591"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 262.949,191.495 h 5 v 5 h -5 v -5"
+                   id="path589"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g595"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 237.886,191.229 h 5 v 5 h -5 v -5"
+                   id="path593"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g599"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 212.823,188.235 h 5 v 5 h -5 v -5"
+                   id="path597"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g603"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 187.76,196.401 h 5 v 5 h -5 v -5"
+                   id="path601"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g607"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 162.697,188.438 h 5 v 5 h -5 v -5"
+                   id="path605"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g611"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 137.634,193.421 h 5 v 5 h -5 v -5"
+                   id="path609"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g615"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 112.572,308.294 h 5 v 5 h -5 v -5"
+                   id="path613"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g619"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 87.5088,265.068 h 5 v 5 h -5 v -5"
+                   id="path617"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g623"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 413.326,193.336 h 5 v 5 h -5 v -5"
+                   id="path621"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g627"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 438.389,196.246 h 5 v 5 h -5 v -5"
+                   id="path625"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g631"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 463.451,194.733 h 5 v 5 h -5 v -5"
+                   id="path629"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g635"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 488.514,194.015 h 5 v 5 h -5 v -5"
+                   id="path633"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g639"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 513.577,201.269 h 5 v 5 h -5 v -5"
+                   id="path637"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g643"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 538.64,194.646 h 5 v 5 h -5 v -5"
+                   id="path641"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g647"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 563.703,192.177 h 5 v 5 h -5 v -5"
+                   id="path645"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g651"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 588.766,171.626 h 5 v 5 h -5 v -5"
+                   id="path649"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g655"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 613.828,96.1394 h 5 v 5 h -5 v -5"
+                   id="path653"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g659"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 638.891,84.8793 h 5 v 5 h -5 v -5"
+                   id="path657"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g663"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 288.011,191.223 h 5 v 5 h -5 v -5"
+                   id="path661"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g667"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 262.949,192.161 h 5 v 5 h -5 v -5"
+                   id="path665"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g671"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 237.886,192.404 h 5 v 5 h -5 v -5"
+                   id="path669"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g675"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 212.823,189.717 h 5 v 5 h -5 v -5"
+                   id="path673"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g679"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 187.76,188.899 h 5 v 5 h -5 v -5"
+                   id="path677"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g683"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 162.697,193.309 h 5 v 5 h -5 v -5"
+                   id="path681"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g687"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 137.634,192.883 h 5 v 5 h -5 v -5"
+                   id="path685"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g691"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 112.572,282.543 h 5 v 5 h -5 v -5"
+                   id="path689"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g695"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 87.5088,311.378 h 5 v 5 h -5 v -5"
+                   id="path693"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g699"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 413.326,194.732 h 5 v 5 h -5 v -5"
+                   id="path697"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g703"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 438.389,193.734 h 5 v 5 h -5 v -5"
+                   id="path701"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g707"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 463.451,194.739 h 5 v 5 h -5 v -5"
+                   id="path705"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g711"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 488.514,194.145 h 5 v 5 h -5 v -5"
+                   id="path709"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g715"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 513.577,193.023 h 5 v 5 h -5 v -5"
+                   id="path713"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g719"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 538.64,204.19 h 5 v 5 h -5 v -5"
+                   id="path717"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g723"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 563.703,185.453 h 5 v 5 h -5 v -5"
+                   id="path721"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g727"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 588.766,170.524 h 5 v 5 h -5 v -5"
+                   id="path725"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+              <g
+                 font-size="12"
+                 font-style="normal"
+                 font-weight="400"
+                 id="g731"
+                 style="font-style:normal;font-weight:400;font-size:12px;font-family:'Liberation Sans';fill:#0000ff;fill-opacity:1;stroke:none">
+                <path
+                   d="m 613.828,59.7347 h 5 v 5 h -5 v -5"
+                   id="path729"
+                   inkscape:connector-curvature="0"
+                   style="vector-effect:non-scaling-stroke;fill-rule:evenodd" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect
+     style="fill:#cb987b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55905533;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect1551"
+     width="685.83362"
+     height="38.051907"
+     x="2.4868996e-14"
+     y="0.0017700195" />
+  <rect
+     y="2.711552e-14"
+     x="-442.83005"
+     height="11.05554"
+     width="442.82297"
+     id="rect1553"
+     style="fill:#cb987b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55905533;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     transform="rotate(-90)" />
+  <rect
+     style="fill:#cb987b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55905533;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect1557"
+     width="665.15979"
+     height="10.786377"
+     x="10.786379"
+     y="432.056" />
+  <rect
+     transform="rotate(-90)"
+     style="fill:#cb987b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55905533;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect1559"
+     width="442.82883"
+     height="10.790771"
+     x="-442.83005"
+     y="675.63556" />
+  <rect
+     style="fill:#c75050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.078825;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect1561"
+     width="60.448414"
+     height="27.896479"
+     x="615.53192"
+     y="0" />
+  <g
+     id="g1590"
+     transform="matrix(1.0687612,0,0,1.0687612,-45.876945,512.38547)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path1584"
+       d="m 641.34585,-470.83274 h 2.65165 l 8.92722,8.92722 h -3.18198 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 652.92472,-470.83274 h -2.65165 l -8.92722,8.92722 h 3.18198 z"
+       id="path1586"
+       inkscape:connector-curvature="0" />
+  </g>
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.69496918;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     d="M 589.96372,7.0293966 V 19.779397 h 16.19193 V 7.0293966 Z M 591,10.029397 h 14.11937 v 8.625 H 591 Z"
+     id="rect1592"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55905533;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect1612"
+     width="14.318913"
+     height="2.032932"
+     x="557"
+     y="17.746466" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.66443253px;line-height:12.29026985px;font-family:'Segoe UI Historic';-inkscape-font-specification:'Segoe UI Historic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="224.37871"
+     y="24.231882"
+     id="text1649"><tspan
+       sodipodi:role="line"
+       id="tspan1647"
+       x="224.37871"
+       y="24.231882"
+       style="stroke-width:0.49161077px">SwitchSeeker: W=16 | B=17</tspan></text>
+  <g
+     id="layer1"
+     transform="matrix(0.26278452,0,0,0.26278452,9.4373603,-52.907589)">
+    <g
+       id="g3897"
+       transform="matrix(1.151749,0,0,1.151749,-28.981792,213.34907)"
+       style="fill:#002057;fill-opacity:1;stroke:none;stroke-opacity:1">
+      <path
+         style="fill:#002057;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path3063"
+         d="m 81.659731,34.766124 c -1.481104,-3.501377 -3.600742,-6.645611 -6.299462,-9.345963 -2.700351,-2.699537 -5.8454,-4.819177 -9.345964,-6.300278 -3.62721,-1.534855 -7.478397,-2.31226 -11.446868,-2.31226 -3.967657,0 -7.819659,0.777405 -11.446055,2.31226 -3.501377,1.481101 -6.645204,3.600741 -9.345556,6.300278 -2.69913,2.700352 -4.819177,5.844994 -6.29987,9.345963 -1.534449,3.626396 -2.312668,7.477177 -2.312668,11.445648 v 23.430061 h 5.00121 V 46.212179 c 0,-3.295317 0.645869,-6.490455 1.916839,-9.498267 1.229024,-2.904782 2.989079,-5.515543 5.231295,-7.756945 2.240588,-2.241809 4.851349,-4.002271 7.756945,-5.230888 3.007405,-1.272192 6.202543,-1.917246 9.49786,-1.917246 3.295317,0 6.49127,0.645054 9.498265,1.917246 2.905597,1.228617 5.515139,2.989079 7.758166,5.230888 2.241407,2.241402 4.001871,4.852163 5.231296,7.756945 1.270967,3.007812 1.915211,6.20295 1.915211,9.498267 v 23.430062 h 5.002023 V 46.212179 c 0,-3.968471 -0.779443,-7.819252 -2.312667,-11.446055"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#002057;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path3065"
+         d="m 62.833827,27.173293 c -2.614017,-1.135361 -5.394594,-1.712001 -8.265983,-1.712001 -2.800123,0 -5.517172,0.548541 -8.077436,1.632184 -2.471896,1.044141 -4.6909,2.54031 -6.595521,4.445338 -1.905436,1.905436 -3.40079,4.124033 -4.446153,6.595521 -1.082829,2.559043 -1.63137,5.27772 -1.63137,8.077844 v 19.922578 l 4.999988,-4.804923 V 46.212179 c 0,-2.128192 0.416598,-4.189597 1.237577,-6.129648 0.793287,-1.875708 1.929055,-3.560425 3.376763,-5.006911 1.446486,-1.447708 3.131203,-2.583884 5.006504,-3.376357 1.940458,-0.821386 4.002678,-1.237576 6.129648,-1.237576 2.180317,0 4.290591,0.43696 6.271365,1.298254 1.916021,0.831974 3.623954,2.021497 5.079396,3.533548 l 3.603591,-3.466355 c -1.914799,-1.991769 -4.164755,-3.55676 -6.688369,-4.653841"
+         inkscape:connector-curvature="0" />
+      <polygon
+         style="fill:#002057;fill-opacity:1;stroke:none;stroke-opacity:1"
+         transform="matrix(0.40723148,0,0,0.40723148,23.521738,15.817643)"
+         id="polygon3067"
+         points="130.762,14.317 130.762,13.01 136.094,13.01 136.094,14.317 134.209,14.317 134.209,19.88 132.648,19.88 132.648,14.317 " />
+      <path
+         style="fill:#002057;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path3069"
+         d="m 79.164622,21.115725 h 0.669081 l 0.467503,1.256716 0.1686,0.489085 h 0.0167 l 0.16696,-0.489085 0.455693,-1.256716 h 0.663385 v 2.79768 h -0.586821 v -1.026223 c 0,-0.06882 0.0015,-0.14416 0.0082,-0.227236 0.0057,-0.08308 0.01262,-0.167372 0.02242,-0.251261 0.0085,-0.08348 0.0167,-0.167372 0.02565,-0.248819 0.0082,-0.08185 0.01586,-0.156377 0.02565,-0.225199 h -0.01749 l -0.231306,0.647906 -0.428819,1.084864 h -0.253702 l -0.428813,-1.084864 -0.222757,-0.647906 h -0.01834 c 0.01019,0.06882 0.01834,0.143346 0.02689,0.225199 0.0085,0.08145 0.01591,0.165336 0.02321,0.248819 0.0074,0.08389 0.01342,0.168186 0.01993,0.251261 0.0065,0.08267 0.0082,0.158413 0.0082,0.227236 v 1.026223 h -0.579078 v -2.79768 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#002057;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path3071"
+         d="m 59.764932,51.162077 c -1.308842,1.373185 -3.151157,2.232851 -5.197902,2.232851 -3.966842,0 -7.183563,-3.2155 -7.183563,-7.183156 0,-3.967657 3.216313,-7.183563 7.183563,-7.183563 2.025976,0 3.851595,0.840932 5.157993,2.188869 l 3.581192,-3.425224 c -2.207193,-2.29027 -5.305003,-3.718431 -8.739185,-3.718431 -6.703845,0 -12.138349,5.434504 -12.138349,12.138349 0,6.703437 5.434504,12.138348 12.138349,12.138348 3.446807,0 6.555612,-1.438749 8.765658,-3.744493 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#002057;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path3073"
+         d="M 73.724014,38.134335 C 73.241039,36.992051 72.657065,35.907186 71.985947,34.87852 l -3.691959,3.546986 c 0.304609,0.534287 0.583153,1.085271 0.823829,1.657025 0.309494,0.731795 0.560756,1.480286 0.754193,2.242624 h 5.116863 c -0.272028,-1.433863 -0.691075,-2.834739 -1.264859,-4.19082"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#002057;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path3075"
+         d="m 70.350915,46.050101 c 0,0.05375 0.0035,0.107916 0.0035,0.161671 v 15.117655 l 5.00159,4.804923 V 46.212179 c 0,-0.05416 -0.0035,-0.108324 -0.004,-0.161671 h -5.000899 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

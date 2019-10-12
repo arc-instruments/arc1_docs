@@ -1,0 +1,476 @@
+html {
+  font-size: 100%;
+}
+
+body {
+  color: black;
+  font-family: 'Montserrat';
+  font-size: 11px;
+  line-height: 1.5;
+  padding: 1em;
+  margin: auto;
+}
+
+@media screen {
+  body {
+    max-width: 900px;
+    font-size: 12px;
+  }
+
+  .floatright {
+    clear: both;
+  }
+}
+
+@media print {
+  .frontmatter {
+    page: cover;
+    width: 100%;
+    height: 100%;
+    page-break-after: always;
+  }
+
+  .backmatter {
+    page: back;
+    page-break-before: always;
+    width: 100%;
+    height: 100%;
+  }
+
+  .empty {
+    page: empty;
+    page-break-after: always;
+  }
+}
+
+@media screen {
+
+  .frontmatter { display: none; }
+  .backmatter { display: none; }
+  .empty { display: none; }
+
+}
+
+a {
+  color: #0645ad;
+  text-decoration: none;
+}
+
+p {
+  margin: 1em 0;
+  text-align: justify;
+  hyphens: auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+strong {
+  color: rgb(0, 32, 96);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(0, 32, 96);
+  line-height: 125%;
+  margin-top: 1em;
+  font-weight: normal;
+}
+
+h1.firstH1 {
+  page-break-before: always;
+}
+
+h2:after {
+  content:' ';
+  display:block;
+  border: 1px solid rgb(0, 32, 96);
+}
+
+h4, h5, h6 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h6 {
+  font-size: 0.9em;
+}
+
+blockquote {
+  color: #666666;
+  margin: 0;
+  padding-left: 3em;
+  border-left: 0.5em #EEE solid;
+}
+
+hr {
+  display: block;
+  height: 2px;
+  border: 0;
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #eee;
+  margin: 1em 0;
+  padding: 0;
+}
+
+pre, code, kbd, samp {
+  font-family: 'Fantasque Sans Mono', monospace, monospace;
+  /*_font-family: 'courier new', monospace;*/
+  font-size: 0.98em;
+}
+
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+b, strong {
+  font-weight: bold;
+}
+
+dfn {
+  font-style: italic;
+}
+
+ins {
+  background: #ff9;
+  color: #000;
+  text-decoration: none;
+}
+
+mark {
+  background: #ff0;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+.infobox {
+  display: flex;
+  align-items: center;
+  clear: both;
+  border-left: 5px solid #3b8fd5;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 40px;
+  padding-right: 10px;
+  min-height: 46px;
+  background: url('img/info.svg') #f1f7fc no-repeat 0% 10px;
+  background-size: 36px;
+  text-align: justify;
+}
+
+.centrebox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgb(0, 32, 96);
+}
+
+.centrebox p {
+  margin: 5px;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+ul, ol {
+  margin: 1em 0;
+  padding: 0 0 0 2em;
+}
+
+nav#TOC li {
+  margin: 5px 0;
+}
+
+li p:last-child {
+  margin-bottom: 0;
+}
+
+ul {
+  /*list-style-type: square*/;
+  position: relative;
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1.5em;
+  /*text-indent: 1em;*/
+}
+
+ul li:before {
+  content: "▶️";
+  /*margin-right: 0.5em;
+  color: rgb(0, 32, 96);*/
+  position: absolute;
+  left: 0;
+}
+
+ul ul {
+  list-style-type: circle;
+}
+
+ul ul, ol ol {
+  margin: .3em 0;
+}
+
+dl {
+  margin-bottom: 1em;
+}
+
+dt {
+  font-weight: bold;
+  margin-bottom: .8em;
+}
+
+dd {
+  margin: 0 0 .8em 2em;
+}
+
+dd:last-child {
+  margin-bottom: 0;
+}
+
+img {
+  border: 0;
+  vertical-align: middle;
+}
+
+img.centered {
+  border: 1px rgb(0, 32, 96);
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figure {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+  counter-increment: figures;
+}
+
+figure img {
+  border: none;
+  margin: 0 auto;
+  max-width: 80%
+}
+
+figure.floatright {
+  float: right;
+  margin-left: 5px;
+  max-width: 40%;
+  padding-left: 5px;
+}
+
+figure.floatright img {
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flex-container {
+  display: flex;
+  align-items: flex-end;
+}
+
+figure.one-third-col {
+  flex: 33.3%;
+  padding: 5px;
+  margin: 0;
+}
+
+figure.one-half-col {
+  flex: 45%;
+  padding: 5px;
+  margin: 0;
+}
+
+figure.two-third-col {
+  flex: 66.6%;
+  padding: 5px;
+  margin: 0;
+}
+
+figure.one-third-col img {
+  width: 100%;
+}
+
+figure.two-third-col img {
+  width: 100%;
+}
+
+figure.one-half-col img {
+  width: 100%;
+}
+
+figcaption {
+  font-size: 0.8em;
+  font-style: italic;
+  margin: 0 0 .8em;
+  padding-top: 5px;
+}
+
+figcaption:before {
+  content: 'Fig. ' counter(figures) ' - ';
+  font-weight: bold;
+  color: rgb(0, 32, 96);
+}
+
+span.torange {
+  color: rgb(226, 90, 41);
+}
+
+span.tdblue {
+  color: rgb(0, 32, 87);
+}
+
+div.smallfont table td {
+  font-size: 8pt;
+}
+
+div.smallfont table td {
+  font-size: 7.5pt;
+  font-family: "Iosevka Term";
+}
+
+table {
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-spacing: 0;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table th {
+  padding: .2em 1em;
+  background-color: #eee;
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  color: rgb(0, 32, 96);
+}
+
+table td {
+  padding: .2em 1em;
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  vertical-align: top;
+}
+
+.author {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+@page cover {
+  margin: 0;
+  background-image: url('img/front-matter.svg');
+  counter-reset: page -1;
+
+  @top-right {
+    content: '';
+  }
+
+  @bottom-left {
+    content: '';
+  }
+
+  @bottom-right {
+    content: '';
+  }
+}
+
+@page back {
+  margin: 0;
+  background-image: url('img/back-matter.svg');
+
+  @top-right {
+    content: '';
+  }
+
+  @bottom-left {
+    content: '';
+  }
+
+  @bottom-right {
+    content: '';
+  }
+}
+
+@page empty {
+  margin: 0;
+
+  @top-right {
+    content: '';
+  }
+
+  @bottom-left {
+    content: '';
+  }
+
+  @bottom-right {
+    content: '';
+  }
+}
+
+
+@page {
+
+  @top-right {
+    content: counter(page);
+    font-family: 'Montserrat';
+    font-size: 10px;
+    color: #333;
+  }
+
+  @bottom-left {
+    content: "®ArC Instruments Ltd";
+    font-family: 'Montserrat';
+    font-size: 10px;
+    color: #333;
+  }
+
+  @bottom-right {
+    background-image: url('img/logo-small.svg');
+    content: "";
+    opacity: 0.75;
+    margin-top: 5px;
+    background-size: 42px;
+    background-position: center bottom;
+    width: 42px;
+    height: 42px;
+    display: inline-block;
+  }
+}
