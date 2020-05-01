@@ -57,7 +57,8 @@ access to individual word- and bitline addresses.
 
 ## Software Installation and Update
 
-To install the ArC ONE® Control GUI, follow the steps below: (for Windows 7 and 8)
+To install the ArC ONE® Control GUI, follow the steps below: (for Windows 7 and
+above)
 
 1. Download the source files from:
 **http://files.arc-instruments.co.uk/release/ArC_ONE_Control_full.zip**
