@@ -1,3 +1,3 @@
 pandoc manual.txt --number-sections --template=template.html5^
-	--css=manual.css --pdf-engine=weasyprint -o manual.pdf
+	--css=manual.css --pdf-engine=weasyprint -o arc1docs\manual.pdf
 

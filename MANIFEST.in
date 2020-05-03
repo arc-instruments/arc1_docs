@@ -1,0 +1,3 @@
+include build.sh
+include build.bat
+exclude arc1docs/*.pdf

@@ -1,2 +1,8 @@
+arc1docs/*pdf
+arc1docs/*html
 manual.pdf
 manual.html
+build/*
+dist/*
+*egg-info/*
+__pycache__
