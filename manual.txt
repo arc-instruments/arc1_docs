@@ -104,7 +104,7 @@ Ltd. contact information.
 
 **Manual Operations panel**: Contains buttons for reading a single selected cell or
 the full array. The Custom Array checkbox restricts the crossbar active devices
-to any combination of devices in a 32x32 array, based on a text file. The read
+to any combination of devices in a 32×32 array, based on a text file. The read
 type can be changed via the drop down menu. The reading voltage can also be set
 via the input text field. Clicking 'Update' updates the reading method on the
 ArC ONE® board. Manual pulsing of 0 to ±12V and down to 90ns can be applied on
@@ -151,7 +151,7 @@ options:
 
 <figure class="floatright">
 ![New session panel](img/new-session.png)
-<figcaption>New sesion panel</figcaption>
+<figcaption>New session panel</figcaption>
 </figure>
 
 1. **Live: Local** – normal operation mode, all outputs are applied to the
@@ -199,7 +199,7 @@ default an average of `n` recorded data points. This entry sets the value of
 `n=50` is a reasonable, general purpose choice.
 
 **Sneak Path Limiting** sets up the sneak path mitigation technique employed in
-selectorless crossbar arrays. The user can chose between V/2, V/3. The
+selectorless crossbar arrays. The user can choose between V/2, V/3. The
 following table illustrates how the bias voltage, V~w~, is applied across
 different devices in the two sneak path mitigation scenarios.
 
@@ -312,7 +312,7 @@ clicking and dragging will constitute the target area for any operations
 carried out via the [Apply to Range]{.torange} directive.
 
 
-### Read operaion
+### Read operation
 
 In the **Read Operations** sub-panel, click [Read Single]{.torange} to perform
 one READ operation on the selected device (highlighted in the **Crossbar
@@ -935,7 +935,7 @@ Stage II polarity          If the above option is checked this option determines
                            initial polarity of stage II (that would be otherwise be
                            determined by stage I).
 
-Read after pulse           If checked the routine will also perform an additiona READ
+Read after pulse           If checked the routine will also perform an additional READ
                            operation after each programming pulse is applied.
 -------------------------------------------------------------------------------------
 
@@ -1145,7 +1145,7 @@ active wordlines, then read and display the current on the active bitline in
 the Current on Active Bitline entrybox. During this operation, all inactive
 word- and bit-lines are held at virtual-GND.
 
-The WRITE operation consists of the the following stages:
+The WRITE operation consists of the following stages:
 
 1. READ of all devices on the active bitline at the reading voltage set in the
    [Manual Operations]{.tdblue} panel;
@@ -1160,7 +1160,7 @@ The WRITE operation consists of the the following stages:
 ### ConvergeToState
 
 **ConvergeToState** allows the user the program a memristor to a user-defined
-resistive state. It employs an algorithm simimal to FormFinder to deliver
+resistive state. It employs an algorithm simiral to FormFinder to deliver
 programming pulse ramps so as to gradually shift the resistance of the device
 to the desired level. In contrast to FormFinder this is not limited to a
 specific low resistance. ConvergeToState will instead try to "guess" the
@@ -1332,7 +1332,7 @@ along with basic ones such as time delay (Delay), single voltage pulse and
 single READ operation. Furthermore, [Start Loop]{.tdblue} and [End
 Loop]{.tdblue} indicators can be utilised as well.
 
-You can drag-and- drop your required modules onto the next column on the right
+You can drag-and-drop your required modules onto the next column on the right
 (the chain column), between the blue **Start** and **End** markers. Rearrange
 them also by drag-and-drop, and discard unwanted ones by dropping them outside
 the chain column. When applying such an experiment chain to your devices, the
