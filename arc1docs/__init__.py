@@ -16,5 +16,6 @@ def start_docs():
             os.startfile(os.path.normpath(res))
         elif sys.platform == "darwin":
             subprocess.run(['open', res], check=True)
-        elif sys.platform in ["linux", "linux2"]:
+        # fall back to xdg-open for all the unix-likes
+        else:
             subprocess.run(['xdg-open', res], check=True)
