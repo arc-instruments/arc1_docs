@@ -398,8 +398,14 @@ blue horizontal line marker at the same pulse #2. Therefore, a 2 V, 100 µs
 voltage pulse has changed the resistance of the device as read at 0.5 V, from
 9 kΩ to 15 kΩ.
 
-Right click on the Data Plot panel for extra display options such as setting
-custom x and y-axis range, or exporting the figure image files.
+By default the data plot panel shows *resistance* values. This can be changed
+to either *conductance*, *current* or *absolute current* from the main toolbar.
+
+![](img/display-modes.png){.centered}
+
+Additional display options, such as setting custom `x` and `y`-axis range, or
+exporting the figure image files can be accessed by right clicking on the
+Data Plot panel.
 
 ### Device History
 
