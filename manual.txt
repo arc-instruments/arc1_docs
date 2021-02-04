@@ -734,12 +734,16 @@ available from the **Pulsing Modules** panel.
 Pulsing modules can be enabled by selecting a module from the *Panels* field
 and clicking the **Add** button. Modules are independent so multiple copies can
 be enabled at the same time with different biasing parameters. Similarly the
-active panel can be removed by clicking the **Remove** button. The active
-module can be applied to selected device, range of devices all the whole
-crossbar by using the buttons [Apply to One]{.torange}, [Apply to
+active panel can be removed by clicking the **Remove** button. Panel parameters
+can be saved and recalled later using the **Save** and **Load** buttons. Loading
+a set of modules parameters from file will not overwrite your active modules but
+append it as a new tab.
+
+The active module can be applied to selected device, range of devices all the
+whole crossbar by using the buttons [Apply to One]{.torange}, [Apply to
 Range]{.torange} or [Apply to All]{.torange} respectively. Please note that
-applying a module to multiple devices might not be available or not behaving
-as expected depending on the functionality of the module. Refer to the
+applying a module to multiple devices might not be available or not behaving as
+expected depending on the functionality of the module. Refer to the
 documentation of each module for more details.
 
 ### FormFinder
