@@ -35,5 +35,6 @@ pandoc manual.txt --number-sections --template=template.html5
   --css=manual.css --pdf-engine=weasyprint -o manual.pdf
 ```
 
-Just ensure that the `weasyprint` executable is in your path. A build script
-(`build.bat` or `build.sh`) is provided for convenience.
+Just ensure that `pandoc` and `weasyprint` executables are in your path. The
+documentation can also be built as a python package: run `python setup.py
+build` or if you have `python-build` installed `python -m build`.
